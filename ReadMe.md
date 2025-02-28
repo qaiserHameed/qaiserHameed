@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>      Custom WordPress themes with dynamic user interfaces and ACF integration.<br>👯 I’m looking to collaborate on<br>      Web development projects involving custom plugins and API integrations.<br>🤝 I’m looking for help with<br>      Advanced JavaScript/jQuery for improving WordPress UI/UX.<br>🌱 I’m currently learning<br>      Full-stack development trends and efficient data management in WordPress.<br>💬 Ask me about<br>      Custom WordPress development and leveraging ACF for dynamic sites.<br>⚡ Fun fact<br>      I love experimenting with new web tools and techniques to enhance the development process!
+I’m currently working on custom Webflow sites with dynamic user interfaces and custom code integration. I’m passionate about collaborating on projects that involve Webflow, API integrations, and custom plugin development. With a focus on improving UI/UX through advanced JavaScript/jQuery, I’m constantly learning full-stack development trends and exploring efficient data management techniques in Webflow. I love experimenting with the latest web tools and techniques to push the boundaries of development and create unique, optimized web experiences.
 
 
 # 💻 Tech Stack:
